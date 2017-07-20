@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SuperSpartyBrosWeb.data.unityweb",
+"asmCodeUrl": "SuperSpartyBrosWeb.asm.code.unityweb",
+"asmMemoryUrl": "SuperSpartyBrosWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "SuperSpartyBrosWeb.asm.framework.unityweb",
+"backgroundUrl": "SuperSpartyBrosWeb.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
